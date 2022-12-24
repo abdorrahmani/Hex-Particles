@@ -14,7 +14,7 @@ export default function App() {
         fpsLimit: 60,
         particles: {
           color: {
-            value: "#FF0000",
+            value: "#2196f3",
             animation: {
               enable: true,
               speed: 10
